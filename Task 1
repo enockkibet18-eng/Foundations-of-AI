@@ -1,3 +1,7 @@
+#ENOCKL KIBET
+#CIT-227-068/2024
+#FOUNDATIONS OF AI
+
 import tensorflow as tf
 
 print("=" * 40)
