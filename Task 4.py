@@ -1,4 +1,4 @@
-#Enock Kibey
+#Enock Kibet
 #CIT-227=068/2024
 
 # task4.py - BFS and DFS from start to goal
