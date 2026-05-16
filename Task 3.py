@@ -1,3 +1,5 @@
+#Enock Kibet
+#CIT-227-068/2024
 % --- Genders ---
 male(john).      % Grandfather
 male(david).     % Uncle
